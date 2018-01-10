@@ -8,7 +8,8 @@
         
  
 1：StackNavigator:
-           ![Image text]()
+
+           ![](https://github.com/xiebinJava/ReactNativeForAndroid/blob/master/navigator.png?raw=true)
                         
                         
                         
