@@ -13,9 +13,11 @@
             
            ![](https://github.com/xiebinJava/ReactNativeForAndroid/blob/master/navigator.png?raw=true)
            
-   然后在代码中运用
+   然后在代码中运用 
           
-            
-                        
-                        
+            ![](https://github.com/xiebinJava/ReactNativeForAndroid/blob/master/stackNavigator.png?raw=true)
+   
+  
+   navigationOptions：这个是控制导航栏的。具体属性[点击这里](https://reactnavigation.org/docs/navigators/stack).
+       
 
