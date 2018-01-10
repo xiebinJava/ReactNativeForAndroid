@@ -7,13 +7,20 @@
 import React, {Component} from 'react';
 import { View, Text, Button , AppRegistry} from 'react-native';
 import { StackNavigator } from 'react-navigation'; // 1.0.0-beta.14
-
-import HomeScreen from './app/screen/HomeScreen'
 import DetailsScreen from './app/screen/DetailsScreen'
-
-
-
-
+class HomeScreen extends Component {
+    // static navigationOptions = {
+    //     title: 'xiebin',
+    // }
+    render() {
+        return (
+            <Button
+                onPress={() => this.props.navigation.navigate('Details', {name: 'Lucy'})}
+                title="Go to Lucy's profile"
+            />
+        );
+    }
+}
 const RootNavigator = StackNavigator({
     Home: {
         screen: HomeScreen,
@@ -27,10 +34,6 @@ const RootNavigator = StackNavigator({
             headerTitle: 'Details',
         },
     },
-},{
-        initialRouteName: 'Home' //默认进入的Screen
-    }
+}
 );
-
 export default RootNavigator;
-
