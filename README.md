@@ -9,12 +9,13 @@
  
 1：StackNavigator:
 
-            安装stackNavigator
+   安装stackNavigator
             
            ![](https://github.com/xiebinJava/ReactNativeForAndroid/blob/master/navigator.png?raw=true)
            
-           
-                        
+   然后在代码中运用
+          
+            
                         
                         
 
