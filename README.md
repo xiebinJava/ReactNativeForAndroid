@@ -8,7 +8,7 @@
         
  
 1：StackNavigator:
-           
+           ![Image text]()
                         
                         
                         
