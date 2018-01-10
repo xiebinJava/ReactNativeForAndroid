@@ -8,7 +8,12 @@
         
  
 1：StackNavigator:
-           ![](https://github.com/xiebinJava/ReactNativeForAndroid/blob/master/navigator.png?raw=true)
+
+            安装stackNavigator
+            
+           ![](https://github.com/xiebinJava/ReactNativeForAndroid/blob/master/navigator.png?raw=true)
+           
+           
                         
                         
                         
