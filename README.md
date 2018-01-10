@@ -11,15 +11,17 @@
 
    安装stackNavigator
             
-           ![](https://github.com/xiebinJava/ReactNativeForAndroid/blob/master/navigator.png?raw=true)
+   ![](https://github.com/xiebinJava/ReactNativeForAndroid/blob/master/navigator.png?raw=true)
            
    然后在代码中运用 App.js 中
        
-            ![](https://github.com/xiebinJava/ReactNativeForAndroid/blob/master/stackNavigator.png?raw=true)
+    ![](https://github.com/xiebinJava/ReactNativeForAndroid/blob/master/stackNavigator.png?raw=true)
             
    DetailsScreen 里面的代码：
    
-            ![](https://github.com/xiebinJava/ReactNativeForAndroid/blob/master/stackNavigator2.png?raw=true)
+   ![](https://github.com/xiebinJava/ReactNativeForAndroid/blob/master/stackNavigator2.png?raw=true)
+            
+            
   
    navigationOptions：这个是控制导航栏的。具体属性[点击这里](https://reactnavigation.org/docs/navigators/stack).
        
